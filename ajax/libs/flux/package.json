@@ -1,6 +1,6 @@
 {
   "name": "flux",
-  "filename": "flux.min.css",
+  "filename": "flux.min.js",
   "version": "2.0.3",
   "description": "An application architecture based on a unidirectional data flow",
   "keywords": [
